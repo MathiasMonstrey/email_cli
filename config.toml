@@ -1,0 +1,4 @@
+[exchange]
+email = "your.email@company.com"
+password = "your_password"
+server = "outlook.office365.com"
